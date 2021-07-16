@@ -1,0 +1,53 @@
+C:\Users\Mamadmti\source\repos\WebApplication4\WebApplication4\bin\WebApplication4.dll.config
+C:\Users\Mamadmti\source\repos\WebApplication4\WebApplication4\bin\WebApplication4.dll
+C:\Users\Mamadmti\source\repos\WebApplication4\WebApplication4\bin\WebApplication4.pdb
+C:\Users\Mamadmti\source\repos\WebApplication4\WebApplication4\bin\EntityFramework.dll
+C:\Users\Mamadmti\source\repos\WebApplication4\WebApplication4\bin\EntityFramework.SqlServer.dll
+C:\Users\Mamadmti\source\repos\WebApplication4\WebApplication4\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Mamadmti\source\repos\WebApplication4\WebApplication4\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Mamadmti\source\repos\WebApplication4\WebApplication4\bin\System.Web.Helpers.dll
+C:\Users\Mamadmti\source\repos\WebApplication4\WebApplication4\bin\System.Web.Mvc.dll
+C:\Users\Mamadmti\source\repos\WebApplication4\WebApplication4\bin\System.Web.Razor.dll
+C:\Users\Mamadmti\source\repos\WebApplication4\WebApplication4\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Mamadmti\source\repos\WebApplication4\WebApplication4\bin\System.Web.Webpages.dll
+C:\Users\Mamadmti\source\repos\WebApplication4\WebApplication4\bin\System.Web.Webpages.Razor.dll
+C:\Users\Mamadmti\source\repos\WebApplication4\WebApplication4\bin\EntityFramework.xml
+C:\Users\Mamadmti\source\repos\WebApplication4\WebApplication4\bin\EntityFramework.SqlServer.xml
+C:\Users\Mamadmti\source\repos\WebApplication4\WebApplication4\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Mamadmti\source\repos\WebApplication4\WebApplication4\bin\System.Web.Razor.xml
+C:\Users\Mamadmti\source\repos\WebApplication4\WebApplication4\bin\System.Web.Webpages.xml
+C:\Users\Mamadmti\source\repos\WebApplication4\WebApplication4\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Mamadmti\source\repos\WebApplication4\WebApplication4\bin\System.Web.Webpages.Razor.xml
+C:\Users\Mamadmti\source\repos\WebApplication4\WebApplication4\bin\System.Web.Helpers.xml
+C:\Users\Mamadmti\source\repos\WebApplication4\WebApplication4\bin\System.Web.Mvc.xml
+C:\Users\Mamadmti\source\repos\WebApplication4\WebApplication4\obj\Debug\WebApplication4.csproj.CoreCompileInputs.cache
+C:\Users\Mamadmti\source\repos\WebApplication4\WebApplication4\obj\Debug\WebApplication4.dll
+C:\Users\Mamadmti\source\repos\WebApplication4\WebApplication4\obj\Debug\WebApplication4.pdb
+C:\Users\Mamadmti\source\repos\WebApplication4\WebApplication4\obj\Debug\WebApplication4.csprojResolveAssemblyReference.cache
+D:\Offline storage\repos\WebApplication4\WebApplication4\bin\WebApplication4.dll.config
+D:\Offline storage\repos\WebApplication4\WebApplication4\bin\WebApplication4.dll
+D:\Offline storage\repos\WebApplication4\WebApplication4\bin\WebApplication4.pdb
+D:\Offline storage\repos\WebApplication4\WebApplication4\bin\EntityFramework.dll
+D:\Offline storage\repos\WebApplication4\WebApplication4\bin\EntityFramework.SqlServer.dll
+D:\Offline storage\repos\WebApplication4\WebApplication4\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Offline storage\repos\WebApplication4\WebApplication4\bin\Microsoft.Web.Infrastructure.dll
+D:\Offline storage\repos\WebApplication4\WebApplication4\bin\System.Web.Helpers.dll
+D:\Offline storage\repos\WebApplication4\WebApplication4\bin\System.Web.Mvc.dll
+D:\Offline storage\repos\WebApplication4\WebApplication4\bin\System.Web.Razor.dll
+D:\Offline storage\repos\WebApplication4\WebApplication4\bin\System.Web.Webpages.Deployment.dll
+D:\Offline storage\repos\WebApplication4\WebApplication4\bin\System.Web.Webpages.dll
+D:\Offline storage\repos\WebApplication4\WebApplication4\bin\System.Web.Webpages.Razor.dll
+D:\Offline storage\repos\WebApplication4\WebApplication4\bin\EntityFramework.xml
+D:\Offline storage\repos\WebApplication4\WebApplication4\bin\EntityFramework.SqlServer.xml
+D:\Offline storage\repos\WebApplication4\WebApplication4\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Offline storage\repos\WebApplication4\WebApplication4\bin\System.Web.Razor.xml
+D:\Offline storage\repos\WebApplication4\WebApplication4\bin\System.Web.Webpages.xml
+D:\Offline storage\repos\WebApplication4\WebApplication4\bin\System.Web.Webpages.Deployment.xml
+D:\Offline storage\repos\WebApplication4\WebApplication4\bin\System.Web.Webpages.Razor.xml
+D:\Offline storage\repos\WebApplication4\WebApplication4\bin\System.Web.Helpers.xml
+D:\Offline storage\repos\WebApplication4\WebApplication4\bin\System.Web.Mvc.xml
+D:\Offline storage\repos\WebApplication4\WebApplication4\obj\Debug\WebApplication4.csprojAssemblyReference.cache
+D:\Offline storage\repos\WebApplication4\WebApplication4\obj\Debug\WebApplication4.csproj.CoreCompileInputs.cache
+D:\Offline storage\repos\WebApplication4\WebApplication4\obj\Debug\WebApplication4.csproj.CopyComplete
+D:\Offline storage\repos\WebApplication4\WebApplication4\obj\Debug\WebApplication4.dll
+D:\Offline storage\repos\WebApplication4\WebApplication4\obj\Debug\WebApplication4.pdb
